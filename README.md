@@ -19,6 +19,7 @@ Currently, the following sorting techniques are implemented in this repository:
 - [Insertion Sort](insertion_Sorting.c)
 
 Each sorting algorithm is implemented in its own file within the repository.
+
 Time complexity analysis for each sorting algorithm will be provided at the end of the respective code implementations.
 
 ## How to Contribute
