@@ -16,7 +16,7 @@ Sorting is a fundamental operation in computer science that involves arranging e
 ## Sorting Techniques
 
 Currently, the following sorting techniques are implemented in this repository:
-- Insertion Sort
+- [Insertion Sort](insertion_Sorting.c)
 
 Each sorting algorithm is implemented in its own file within the repository.
 
