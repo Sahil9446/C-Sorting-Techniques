@@ -19,6 +19,7 @@ Currently, the following sorting techniques are implemented in this repository:
 - [Insertion Sort in C Language](insertion_Sorting.c)
 - [Bubble Sort in C++](Bubble%20Sort/Main.cpp)
 - [Insertion Sort in C++](Insertion%20Sort/Main.cpp)
+- [Selection Sort in C++](Selection%20Sort/Main.cpp)
 
 Each sorting algorithm is implemented in its own file within the repository.
 
