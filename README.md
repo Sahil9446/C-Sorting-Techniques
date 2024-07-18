@@ -11,7 +11,7 @@ Welcome to the C++ Sorting Techniques repository! In this repository, we explore
 
 ## Introduction
 
-Sorting is a fundamental operation in computer science that involves arranging elements of a list or an array in a particular order, typically in ascending or descending order. There are various algorithms designed to accomplish this task efficiently. This repository aims to provide implementations of popular sorting algorithms in C, along with explanations and analysis of their performance.
+Sorting is a fundamental operation in computer science that involves arranging elements of a list or an array in a particular order, typically in ascending or descending order. There are various algorithms designed to accomplish this task efficiently. This repository aims to provide implementations of popular sorting algorithms in C++, along with explanations and analysis of their performance.
 
 ## Sorting Techniques
 
