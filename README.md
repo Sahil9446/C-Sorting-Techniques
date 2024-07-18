@@ -17,6 +17,7 @@ Sorting is a fundamental operation in computer science that involves arranging e
 
 Currently, the following sorting techniques are implemented in this repository:
 - [Insertion Sort in C Language](insertion_Sorting.c)
+- [Bubble Sort in C++](Bubble Sort)
 
 Each sorting algorithm is implemented in its own file within the repository.
 
