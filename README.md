@@ -1,6 +1,6 @@
-# C Sorting Techniques
+# C++ Sorting Techniques
 
-Welcome to the C Sorting Techniques repository! In this repository, we explore various sorting algorithms implemented in the C programming language.
+Welcome to the C++ Sorting Techniques repository! In this repository, we explore various sorting algorithms implemented in the C programming language.
 
 ## Table of Contents
 
